@@ -19,8 +19,7 @@ Medical expenses fluctuate across different months
 Some hospitals have higher average doctor availability
 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
-
+https://github.com/amitgatir1321/hospital-data-analysis-sql/blob/main/Dashboard.png 
 
 💡 Learning Outcomes
 Gained hands-on experience with SQL queries (SELECT, GROUP BY, ORDER BY)
